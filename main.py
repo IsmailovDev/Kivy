@@ -2,6 +2,7 @@ import kivy
 import os
 os.environ['KIVY_GL_BACKEND'] = 'angle_sdl2'
 kivy.require('1.9.1') # replace with your current kivy version !
+# sinov uchun
 from kivy.app import App
 from kivy.uix.label import Label
 from kivy import Config
